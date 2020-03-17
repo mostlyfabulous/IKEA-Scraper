@@ -67,8 +67,6 @@ public class Scraper {
         catch (IOException e) {
             System.out.println("IO Exception");
         }
-
-        System.out.println("git ready");
     }
 }
 
